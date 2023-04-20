@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.text-medium-pred{
+    font-family: 'Roboto' !important;
+    font-weight: 500 !important;
+}
+
+/* LETRAS TITULOS CARDS  #212529*/
+
+.text-color-pri{
+    color: #212529;
+}
+
+/* LETRAS SUBTITULOS CARDS #707070*/
+.text-color-sec{
+    color: #707070;
+}
+
+.card img{
+    cursor: pointer;
+}
+
+.navbar-nav a:hover{
+    color: #FFFF !important;
+}
